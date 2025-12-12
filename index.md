@@ -2,7 +2,7 @@ That [triumvirate](https://www.science.org/content/article/debate-reignites-over
 
 Think of it this way.
 
-Heredity is the codebase. Not the tidy GitHub kind, but the ancient, hacked-together cathedral of scripts, macros, and undocumented features that still somehow boots. Each gene is a line of code that got kept because it “worked” well enough to not get deleted by the compiler called death.
+[Heredity](https://ukb-dt.github.io/tracy-chapman/) is the codebase. Not the tidy GitHub kind, but the ancient, hacked-together cathedral of scripts, macros, and undocumented features that still somehow boots. Each gene is a line of code that got kept because it “worked” well enough to not get deleted by the compiler called death.
 
 Replication error is the bug stream. Imperfect copying is what injects entropy back into the system, so the code doesn’t get stuck in a local optimum and stagnate. In software terms, mutation is the universe sneaking in unreviewed pull requests at midnight. Most break something. A few make performance unexpectedly better. A vanishingly small number are genuinely elegant.
 
